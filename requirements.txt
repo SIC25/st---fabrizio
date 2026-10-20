@@ -2,3 +2,4 @@ numpy
 pandas
 time
 plotly
+streamlit
